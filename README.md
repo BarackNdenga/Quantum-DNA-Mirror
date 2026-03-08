@@ -66,3 +66,24 @@ This repository contains:
 - Hardware schematics and components  
 - Documentation and white paper  
 - Project pitch for collaboration and investment
+
+
+Call for Scientific Collaboration and Investment
+
+I am seeking partnerships with research laboratories,
+quantum physicists, biophysicists, and investors interested
+in pioneering a new generation of biological imaging systems.
+
+The Quantum DNA Mirror represents a potential breakthrough
+in molecular biology and medical diagnostics.
+
+Researchers and institutions interested in collaboration
+are invited to participate in the theoretical validation
+and experimental development of this technology.
+
+Inventor:
+Ndenga Lumbu Barack
+2026
+
+📧 ndengalumbu@gmail.com 
+📞+243 837767430
